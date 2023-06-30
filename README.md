@@ -14,11 +14,11 @@ There are lots of projects, but there are the most interesting one 🧐 
     - Beta release 2023 Q3 - 2024 Q4
     - Release 2024 Q2-Q3
   - There are repositories
-    - Backend @LikDan/StudyumApi - Golang, MongoDB, Redis
-    - Applications Api @LikDan/StudyumApplicationsApi  - C#, MongoDB
-    - Frontend @LikDan/Studyum - Angular, Nginx
+    - Backend [@LikDan/StudyumApi](https://github.com/LikDan/StudyumApi) - Golang, MongoDB, Redis
+    - Applications Api [@LikDan/StudyumApplicationsApi](https://github.com/LikDan/StudyumApplicationsApi)  - C#, MongoDB
+    - Frontend [@LikDan/Studyum](https://github.com/LikDan/Studyum) - Angular, Nginx
 - 🛠️ ServiceHelper
   - Desktop application for my dad's work to create bills and manage clients
   - It was written on JavaFX and TornadoFX
   - There is the repository
-    - Desktop @LikDan/ServiceHelper - Kotlin, TornadoFX
+    - Desktop [@LikDan/ServiceHelper](https://github.com/LikDan/ServiceHelper) - Kotlin, TornadoFX
