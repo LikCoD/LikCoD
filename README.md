@@ -1,6 +1,24 @@
-- 👋 Hi, I’m @LikCoD
+- 👋 Hi, I’m @LikDan
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning Go, Typescript (Angular), Kotlin(KMM), MongoDB and PostgerSQL
 - 📫 You can reach me by my email address - likdan.official@gmail.com
 
-Some of my projects containst private keys (suck as db credentials, firebase...), so if you want to see it I will send a zip archive withiut this sensitive data
+There are lots of projects, but there are the most interesting one 🧐 
+- 📚 Studyum
+  - Fullstack web application for colleges and universities to organize schedule, create applicaitons, manage students marks and absences, manage users and their permissions
+  - It has a lot of different technologes and frameworks, for examle Gin, JWT, OAuth2, Firebase, Swagger, GRPC, Nx, MaterialUI...
+  - With privacy and data security
+  - Everthing are running in docker and available (I hope 🤞) on https://studyum.net
+  - It is developing and there are some planning releases
+    - Alpha release 2023 Q3 - Q4
+    - Beta release 2023 Q3 - 2024 Q4
+    - Release 2024 Q2-Q3
+  - There are repositories
+    - Backend @LikDan/StudyumApi - Golang, MongoDB, Redis
+    - Applications Api @LikDan/StudyumApplicationsApi  - C#, MongoDB
+    - Frontend @LikDan/Studyum - Angular, Nginx
+- 🛠️ ServiceHelper
+  - Desktop application for my dad's work to create bills and manage clients
+  - It was written on JavaFX and TornadoFX
+  - There is the repository
+    - Desktop @LikDan/ServiceHelper - Kotlin, TornadoFX
